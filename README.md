@@ -15,4 +15,4 @@ The following are links to the various games that I have developed in these cour
 
 ## Principles of Computing
 
-- [Fifteen Tile Sliding Puzzle](https://py2.codeskulptor.org/#user48_juzU6X12Kw_4.py)
+- [Fifteen-Tile Sliding Puzzle](https://py2.codeskulptor.org/#user48_juzU6X12Kw_4.py)
