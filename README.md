@@ -1,6 +1,6 @@
 # Code Frameworks for Rice University's Online Courses
 
-The following are links to the various games that have been developed in these courses. The games can be played in your browser using the Codeskulptor platform.
+The following are links to the various games that I have developed in these courses. The games can be played in your browser using the Codeskulptor platform.
 
 ## Interactive Python
 
